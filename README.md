@@ -7,7 +7,7 @@ Shopping website made with Vue
 https://github.com/anu1996/Shopping-vue/blob/master/README.md
 
 ## Prerequisites
-> The **master** branch is a pure front-end project，and the **forMallServer** branch is a front-end project that combines with the backend API server. The mall api server:[https://github.com/PowerDos/Mall-Server](https://github.com/anu1996/Shopping-server/tree/master)
+> The **master** branch is a pure front-end project，and the **forMallServer** branch is a front-end project that combines with the backend API server. The mall api server:[https://github.com/anu1996/Shopping-server/tree/master](https://github.com/anu1996/Shopping-server/tree/master)
 
 > The project on master branch is a pure front-end project，so the login account and password is fixed. Account: Gavin, Password: 123456
 
