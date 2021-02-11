@@ -4,7 +4,7 @@ Shopping website made with Vue
 > This is a front-end project of an e-commerce website based on VUE + VUEX + iView UI, and the version that combines with the backend API server is on **forMallServer** branch，welcome to fork or star
 
 ## Prerequisites
-> The **master** branch is a pure front-end project，and the **forMallServer** branch is a front-end project that combines with the backend API server. The mall api server:[https://github.com/anu1996/Shopping-server/tree/master](https://github.com/anugupta01/Shopping-server/tree/master)
+> The **master** branch is a pure front-end project，and the **forMallServer** branch is a front-end project that combines with the backend API server. The mall api server:[https://github.com/anugupta01/Shopping-server/tree/master](https://github.com/anugupta01/Shopping-server/tree/master)
 
 > The project on master branch is a pure front-end project，so the login account and password is fixed. Account: Gavin, Password: 123456
 
